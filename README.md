@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # RideShare Application
 
@@ -106,3 +107,6 @@ npm run dev
   - MongoDB & Mongoose
   - JWT Authentication
   - TypeScript
+=======
+# Ride-Sharing-Website
+>>>>>>> 47eee3f18db9c696a089f203561b457f5595a6b3
